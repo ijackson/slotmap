@@ -1,3 +1,11 @@
+# This is a fork
+
+The original is here: <https://github.com/orlp/slotmap>
+
+This fork exists only because <https://github.com/orlp/slotmap/issues/55> and <https://github.com/orlp/slotmap/pull/56> remain un-reviewed upstream.
+
+The git source for this fork is here: <https://github.com/ijackson/slotmap/tree/slotmap-fork-otter>
+
 # slotmap
 
 A Rust library providing three containers with persistent unique keys to access

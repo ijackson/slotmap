@@ -1,9 +1,9 @@
 [package]
-name = "slotmap"
+name = "slotmap-fork-otter"
 version = "1.0.2"  # Remember to grep and update version everywhere.
 edition = "2018"
 authors = ["Orson Peters <orsonpeters@gmail.com>"]
-description = "Slotmap data structure"
+description = "Slotmap data structure - temporary fork for Otter"
 license = "Zlib"
 repository = "https://github.com/orlp/slotmap"
 readme = "README.md"
